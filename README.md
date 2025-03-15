@@ -11,7 +11,7 @@
 
 기존 모델과의 비교
 
-![image](https://github.com/user-attachments/assets/095798f2-2dcb-4cfa-8dd3-425c41d45370)
+![image](https://github.com/user-attachments/assets/13a0f3fd-d14b-4ac5-9cf8-5141eb602bca)
 
 다중공선성 확인
 
